@@ -11,6 +11,7 @@ public class Cancion {
 	private String grupo;
 	private int duracion;
 	private boolean sonando;
+	private boolean w;
 
 	// Definimos los constructores
 /**
